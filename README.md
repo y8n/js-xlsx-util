@@ -123,3 +123,6 @@ var _ = require('js-xlsx-util');
 - `_.isEqual(valA,valB)`：判断两个值是否一样，经过转化字符串，然后去除首尾空格，因为有些单元格中首尾是有空格的。
 - `_.isUndefined(value)`：判断一个值是否是`undefined`
 - `_.isDefined(value)`：判断一个值是否是定义的
+
+## License
+MIT
