@@ -1,0 +1,26 @@
+{
+  "name": "js-xlsx-util",
+  "version": "1.0.0",
+  "description": "A simple utility collection for js-xlsx.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/y8n/js-xlsx-util.git"
+  },
+  "keywords": [
+    "js-xlsx",
+    "util"
+  ],
+  "author": "YangJiyuan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/y8n/js-xlsx-util/issues"
+  },
+  "homepage": "https://github.com/y8n/js-xlsx-util#readme",
+  "dependencies": {
+    "xlsx": "^0.8.0"
+  }
+}
